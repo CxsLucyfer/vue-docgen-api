@@ -42,7 +42,7 @@
     "pug": "^2.0.3",
     "recast": "^0.17.3",
     "ts-map": "^1.0.3",
-    "typescript": "^3.2.2",
+    "typescript": "^3.9.10",
     "vue": "^2.6.3",
     "vue-template-compiler": "^2.6.3"
   },
