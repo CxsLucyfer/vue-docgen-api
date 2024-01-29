@@ -36,7 +36,7 @@
   "dependencies": {
     "@babel/parser": "^7.2.3",
     "@babel/types": "^7.0.0",
-    "ast-types": "^0.12.2",
+    "ast-types": "^0.16.0",
     "hash-sum": "^1.0.2",
     "lru-cache": "^4.1.5",
     "pug": "^2.0.3",
