@@ -43,8 +43,8 @@
     "recast": "^0.17.3",
     "ts-map": "^1.0.3",
     "typescript": "^3.2.2",
-    "vue": "^2.6.3",
-    "vue-template-compiler": "^2.6.3"
+    "vue": "^2.7.16",
+    "vue-template-compiler": "^2.7.16"
   },
   "devDependencies": {
     "@types/htmlparser2": "^3.7.31",
